@@ -15,4 +15,4 @@ Instead, θ<sub>r</sub> indicates the angle for the radiation pattern varying wi
 
 ***
 
-## The use of data here contained is intended only for research purposes and it has to be acknowledged by citing us in your work using the following:
+### The use of data here contained is intended only for research purposes. Any use of it has to be acknowledged by citing the following:
