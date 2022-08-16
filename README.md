@@ -10,9 +10,9 @@ The test was performed under the following conditions:
 * Reference signal received power (RSRP) sampling at RX
 * Noise floor = -90dBm
 
-In the CSV file, the pair (θ<sub>n</sub>, Φ<sub>n</sub>) defines the RIS main beam location: θ<sub>n</sub> on the azimuth and Φ<sub>n</sub>.
-Instead, θ<sub>r</sub> indicates the angle on the azimuth for the radiation pattern varying with a step of 3°.
+In the CSV file, the pair (θ<sub>n</sub>, Φ<sub>n</sub>) defines the RIS main beam location: θ<sub>n</sub> for the azimuth and Φ<sub>n</sub> for the elevation.
+Instead, θ<sub>r</sub> indicates the angle for the radiation pattern varying with a step of 3° on the azimuth.
 
 ***
 
-## The use of data here contained is intended for research purposes only and it has to be acknowledged by citing us using:
+## The use of data here contained is intended only for research purposes and it has to be acknowledged by citing us in your work using the following:
