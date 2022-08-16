@@ -2,8 +2,8 @@
 ***
 #### Here we provide the dataset containing the power measurements carried out in the anechoic chamber of TU Darmstadt. 
 The test was performed under the following conditions:
-* TX at 1.1m away from RIS with -33° elevation angle and θ<sub>t</sub> = [20°,90°] 
-* RX at 6.3m away from RIS with 3° elevation angle and θ<sub>t</sub> = [90°]
+* TX at 1.1m away from RIS with 33° elevation angle and θ<sub>t</sub> = [20°,90°] 
+* RX at 6.3m away from RIS with -3° elevation angle and θ<sub>t</sub> = [90°]
 * Horn antennas gain = 13.5 dBi 
 * OFDM QPSK-modulated symbols with 5 MHz of bandwidth, numerology that meets LTE requirements. 
 * TX power per subcarrier = -30 dBm
