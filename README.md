@@ -12,3 +12,7 @@ The test was performed under the following conditions:
 
 In the CSV file, the pair (θ<sub>n</sub>, Φ<sub>n</sub>) defines the RIS main beam location: θ<sub>n</sub> on the azimuth and Φ<sub>n</sub>.
 Instead, θ<sub>r</sub> indicates the angle on the azimuth for the radiation pattern varying with a step of 3°.
+
+***
+
+## The use of data here contained is intended for research purposes only and it has to be acknowledged by citing us using:
