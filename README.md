@@ -16,3 +16,11 @@ Instead, θ<sub>r</sub> indicates the angle for the radiation pattern varying wi
 ***
 
 ### The use of data here contained is intended only for research purposes. Any use of it has to be acknowledged by citing the following:
+---
+@article{rossanese2022designing,
+  title={Designing, Building, and Characterizing RF Switch-based Reconfigurable Intelligent Surfaces},
+  author={Rossanese, Marco and Mursia, Placido and Garcia-Saavedra, Andres and Sciancalepore, Vincenzo and Asadi, Arash and Costa-Perez, Xavier},
+  journal={arXiv preprint arXiv:2207.07121},
+  year={2022}
+}
+---
