@@ -15,6 +15,8 @@ For more details, please refer to sec. 5 of our paper.
 In the CSV file, the pair (θ<sub>n</sub>, Φ<sub>n</sub>) defines the RIS main beam location: θ<sub>n</sub> for the azimuth and Φ<sub>n</sub> for the elevation.
 Instead, θ<sub>r</sub> indicates the angle for the radiation pattern varying with a step of 3° on the azimuth.
 
+In the RIS_beamforming file, data regarding how the RIS is able to generate beamforming by changing the number of active antenna elements.
+
 ***
 
 ### The use of data here contained is intended only for research purposes. Any use of it has to be acknowledged by citing the following:
